@@ -1,7 +1,7 @@
 <template>
     <section class="text-center py-14">
         <!-- Followers Count (Transparent background) -->
-        <div class="inline-flex items-center bg-transparent py-2 px-3 rounded-full mb-4 border border-solid"> <span
+        <div class="inline-flex items-center bg-transparent px-3 rounded-full mb-4 border border-solid"> <span
                 class="text-gradient font-bold">30,000+</span>
             <span class="ml-2">người tin dùng</span>
             <div class="ml-2 flex items-center -space-x-4">
@@ -14,7 +14,7 @@
         </div>
 
         <!-- Main Heading with Gradient Text -->
-        <h1 class="text-6xl font-bold leading-[4.5rem]">
+        <h1 class=" font-bold text-3xl leading-[2.5rem] lg:text-6xl lg:leading-[4.5rem]">
             Giải pháp thiết kế <br>
             <span class="text-blue-gradient">
                 Logo & Brand Identity <br>

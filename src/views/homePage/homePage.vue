@@ -17,6 +17,6 @@ html {
   font-family: "Readex Pro", sans-serif;
 }
 .container {
-  @apply w-[70%] mx-auto;
+  @apply w-[90%] lg:w-[70%] mx-auto;
 }
 </style>
